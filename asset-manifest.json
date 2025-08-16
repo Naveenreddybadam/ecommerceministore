@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ecommerceministore/static/css/main.20bc5c0c.css",
+    "main.js": "/ecommerceministore/static/js/main.f0baf330.js",
+    "index.html": "/ecommerceministore/index.html",
+    "main.20bc5c0c.css.map": "/ecommerceministore/static/css/main.20bc5c0c.css.map",
+    "main.f0baf330.js.map": "/ecommerceministore/static/js/main.f0baf330.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20bc5c0c.css",
+    "static/js/main.f0baf330.js"
+  ]
+}
